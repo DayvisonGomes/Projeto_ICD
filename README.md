@@ -1,5 +1,5 @@
 # Projeto_ICD
-# Análise dos dados da Netflix
+# Análise dos Filmes e das Séries de TV da Netflix
 
 <h4> Projeto da cadeira de Introdução a Ciência de Dados com os alunos: </h4>
 
