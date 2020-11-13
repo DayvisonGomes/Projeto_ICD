@@ -1,7 +1,8 @@
 # Projeto_ICD
+# Análise dos dados da Netflix
 
-<h4> Projeto da cadeira de Introdução a Ciência de Dados: Análise dos dados da Netflix. </h4>
-<h4> Com os alunos: </h4>
+<h4> Projeto da cadeira de Introdução a Ciência de Dados com os alunos: </h4>
+
 <ul>
   <li> Dayvison Gomes de Oliveira </li>
   <li> Nathan Carlos De Macena Gomes  </li>
